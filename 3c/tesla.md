@@ -6,3 +6,4 @@
 
 > 特斯拉U盘插入电脑，下载好的音源粘贴在<mark style="color:red;">根目录</mark>里，重命名为“LockChime.wav”
 
+# 锁车音效2
