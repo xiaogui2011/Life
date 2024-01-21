@@ -1,6 +1,4 @@
-# Tesla
-
-## 锁车音效
+# 锁车音效
 
 {% embed url="https://www.xiaohongshu.com/explore/6595235f0000000018028ce4" %}
 

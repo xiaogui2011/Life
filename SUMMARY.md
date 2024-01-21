@@ -4,7 +4,7 @@
 
 ## 3C
 
-* [Tesla](3c/page-1.md)
+* [Tesla](3c/tesla.md)
 * [Apple](3c/apple.md)
 
 ## Movies
