@@ -2,7 +2,7 @@
 description: Vedioedio
 ---
 
-# NBA獨行俠隊老闆馬克庫班的十件必備品
+# intrestingVideo
 
 {% embed url="https://www.youtube.com/watch?v=PXYUK3ontPo" %}
 
@@ -10,4 +10,6 @@ description: Vedioedio
 >
 > 隐形眼镜清洗盒？
 >
-> 打嗝也有处理办法， HiccAway
+> 打嗝也有处理办法， HiccAway[^1]&#x20;
+
+[^1]: [https://item.jd.com/10056993116041.html](https://item.jd.com/10056993116041.html)
