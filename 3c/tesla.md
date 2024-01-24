@@ -38,4 +38,22 @@ coverY: 0
 
 ## 能量回收制动受限
 
-解决办法
+[解决办法](https://www.tesla.com/ownersmanual/modely/zh\_cn/GUID-3DFFB071-C0F6-474D-8A45-17BE1A006365.html)
+
+> ### 能量回收制动 <a href="#d1e8607__guid-f0ebaefb-de01-417e-97f1-eac252f0f0ce" id="d1e8607__guid-f0ebaefb-de01-417e-97f1-eac252f0f0ce"></a>
+>
+> 电池温度较低或已充满电时，能量回收制动可能受限
+>
+> <mark style="background-color:orange;">要确保每次松开加速踏板时都获得相同的减速量</mark>，而不管电池状态如何.
+>
+> 您可以选择在能量回收制动受限时自动启用常规制动系统。
+>
+> 点击控制 > 踏板和转向 > 能量回收制动受限时实施制动。
+>
+>
+>
+> 启用能量回收制动受限时实施制动后，在实施制动时，制动踏板可能会移动，并在踩下时可能会<mark style="color:red;">比较费力</mark>。这是正常现象，不会影响您对 Model Y 减速。
+>
+>
+>
+> 由于 Model Y 使用能量回收制动，刹车片的使用频率通常低于传统制动系统中的制动片。为了避免锈蚀和腐蚀积聚，Tesla 建议<mark style="color:red;">经常踩下制动踏板，以应用机械制动器并使刹车片和刹车盘变干</mark>。
