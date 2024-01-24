@@ -26,3 +26,13 @@ coverY: 0
 | 国家电网 |     |    |
 | 高德搜索 |     |    |
 
+
+
+## ETC 如何扔手套箱
+
+
+
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+
+
+
