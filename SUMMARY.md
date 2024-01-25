@@ -18,6 +18,7 @@
 
 ## 🏀 Basketball
 
+* [装备](basketball/zhuang-bei.md)
 * [intrestingVideo](basketball/intrestingvideo.md)
 
 ## 健康
