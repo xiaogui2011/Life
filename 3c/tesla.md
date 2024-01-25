@@ -60,6 +60,14 @@ coverY: 0
 
 ## 重启能解决99.9999%的问题
 
+> ### [重新啟動觸控螢幕](https://www.tesla.com/ownersmanual/model3/zh\_tw\_us/GUID-518C51C1-E9AC-4A68-AE12-07F4FF8C881E.html#GUID-7462479C-A6D1-4F25-BF1B-4A3899BCA999) <a href="#guid-7462479c-a6d1-4f25-bf1b-4a3899bca999__guid-53f99a6c-4e28-4316-99ee-99df0b6d4e7c" id="guid-7462479c-a6d1-4f25-bf1b-4a3899bca999__guid-53f99a6c-4e28-4316-99ee-99df0b6d4e7c"></a>
+>
+>
+>
+> **同時按住 方向盤 的滾動按鈕直到觸控螢幕變暗**
+>
+> <img src="../.gitbook/assets/image (1).png" alt="" data-size="original">
+
 * 网络连接, 比如`无法播放音乐`, `指令无法正常反馈`
 * 点击屏幕没有响应
 
