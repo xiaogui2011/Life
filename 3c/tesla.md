@@ -75,3 +75,5 @@ coverY: 0
 
 ## 院士
 
+[bo-ke.md](../books/bo-ke.md "mention")
+
