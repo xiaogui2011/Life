@@ -8,9 +8,10 @@
 * [Tesla](3c/tesla.md)
 * [Apple](3c/apple.md)
 
-## Movies
+## 追更
 
-* [2024](movies/2024.md)
+* [2024](zhui-geng/2024.md)
+* [海贼王](zhui-geng/hai-zei-wang.md)
 
 ## Books
 

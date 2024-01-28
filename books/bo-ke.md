@@ -1,8 +1,14 @@
 # 播客
 
+## 商业就是这样
 
+{% embed url="https://podcasts.apple.com/cn/podcast/%E5%95%86%E4%B8%9A%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7/id1552904790" %}
+
+## # 商业WHY酱
 
 {% embed url="https://podcasts.apple.com/cn/podcast/%E5%95%86%E4%B8%9Awhy%E9%85%B1/id1584252224?i=1000635763366" %}
+
+
 
 > Elon Musk
 >
