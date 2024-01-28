@@ -77,5 +77,5 @@ coverY: 0
 
 ## 院士
 
-[bo-ke.md](../books/bo-ke.md "mention")
+[#shang-ye-why-jiang](../books/bo-ke.md#shang-ye-why-jiang "mention")
 
