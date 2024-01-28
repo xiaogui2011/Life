@@ -28,15 +28,17 @@ coverY: 0
 
 
 
-## ETC 如何扔手套箱
+## ETC不要贴在玻璃上
 
-
+太丑了。 所以别贴在玻璃上。 `less is more !`
 
 <img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 
 
 ## 能量回收制动受限
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="126"><figcaption></figcaption></figure>
 
 [解决办法](https://www.tesla.com/ownersmanual/modely/zh\_cn/GUID-3DFFB071-C0F6-474D-8A45-17BE1A006365.html)
 
@@ -66,7 +68,7 @@ coverY: 0
 >
 > **同時按住 方向盤 的滾動按鈕直到觸控螢幕變暗**
 >
-> <img src="../.gitbook/assets/image (1).png" alt="" data-size="original">
+> <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
 
 * 网络连接, 比如`无法播放音乐`, `指令无法正常反馈`
 * 点击屏幕没有响应
