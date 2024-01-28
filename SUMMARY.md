@@ -18,10 +18,11 @@
 * [ElonMusk](books/elonmusk.md)
 * [霍乱时期的爱情](books/huo-luan-shi-qi-de-ai-qing.md)
 
-## 🏀 Basketball
+## 🏀 球类
 
-* [装备](basketball/zhuang-bei.md)
-* [intrestingVideo](basketball/intrestingvideo.md)
+* [装备](qiu-lei/zhuang-bei.md)
+* [intrestingVideo](qiu-lei/intrestingvideo.md)
+* [台球](qiu-lei/tai-qiu.md)
 
 ## 健康
 
