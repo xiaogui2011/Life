@@ -6,4 +6,8 @@
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
+### 瞄左打右
+
+## 走位练习
+
 ## 球形练习
