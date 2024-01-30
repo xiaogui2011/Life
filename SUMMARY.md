@@ -26,6 +26,14 @@
 * [intrestingVideo](qiu-lei/intrestingvideo.md)
 * [台球](qiu-lei/tai-qiu.md)
 
+***
+
+* [Page](page.md)
+
 ## 健康
 
 * [医保](jian-kang/yi-bao.md)
+
+## 技能
+
+* [做饭](ji-neng/zuo-fan.md)
