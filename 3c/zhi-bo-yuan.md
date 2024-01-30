@@ -4,3 +4,9 @@
 
 在线播放地址测试\
 [https://livepush.io/hls-player/index.html](https://livepush.io/hls-player/index.html)
+
+
+
+```
+https://ths1f9qf.xyz/link/cx0lQ5Xt9pSNrWya?clash=2&new=1
+```
