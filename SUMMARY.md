@@ -28,11 +28,9 @@
 
 ***
 
-* [Page](page.md)
-
-## 健康
-
-* [医保](jian-kang/yi-bao.md)
+* [健康](jian-kang/README.md)
+  * [常用药](jian-kang/chang-yong-yao.md)
+  * [医保](jian-kang/yi-bao.md)
 
 ## 技能
 
