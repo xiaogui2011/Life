@@ -15,6 +15,8 @@
 
 ## Books
 
+* [杂文](books/za-wen/README.md)
+  * [我们怎样做父亲](books/za-wen/wo-men-zen-yang-zuo-fu-qin.md)
 * [经济学人](books/jing-ji-xue-ren.md)
 * [播客](books/bo-ke.md)
 * [ElonMusk](books/elonmusk.md)
