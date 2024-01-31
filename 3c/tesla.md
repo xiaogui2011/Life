@@ -79,3 +79,7 @@ coverY: 0
 
 [#shang-ye-why-jiang](../books/bo-ke.md#shang-ye-why-jiang "mention")
 
+## 内循环更省电
+
+内循环车内温度热的更快
+
