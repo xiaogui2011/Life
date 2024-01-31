@@ -1,7 +1,8 @@
 {
     "plugins": [
         "hide-element",
-        "chapter-fold"
+        "chapter-fold",
+        "back-to-top-button"
     ],
     "pluginsConfig": {
         "hide-element": {
