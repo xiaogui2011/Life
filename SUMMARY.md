@@ -36,4 +36,8 @@
 
 ## 技能
 
-* [做饭](ji-neng/zuo-fan.md)
+* [做饭](ji-neng/zuo-fan/README.md)
+  * [辣](ji-neng/zuo-fan/la/README.md)
+    * [辣度1](ji-neng/zuo-fan/la/la-du-1.md)
+  * [酸甜口](ji-neng/zuo-fan/suan-tian-kou/README.md)
+    * [Page 2](ji-neng/zuo-fan/suan-tian-kou/page-2.md)
