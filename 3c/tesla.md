@@ -79,7 +79,18 @@ coverY: 0
 
 [#shang-ye-why-jiang](../books/bo-ke.md#shang-ye-why-jiang "mention")
 
-## 内循环更省电
+## 更省电
 
-内循环车内温度热的更快
+* 内循环车内温度热的更快, <mark style="color:red;">更省电?</mark>
+
+内外循环自动循环按钮, <mark style="background-color:red;">浅色的标志</mark>
+
+
+
+
+
+## 冬天使用
+
+* 雨刮器除霜标志
+*
 
