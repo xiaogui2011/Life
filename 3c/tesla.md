@@ -87,10 +87,29 @@ coverY: 0
 
 
 
-
-
 ## 冬天使用
 
 * 雨刮器除霜标志
 *
 
+## 补漆
+
+{% embed url="https://www.douyin.com/search/%E5%85%A8%E5%96%B7%E5%8D%8A%E5%96%B7%E7%9A%84%E5%8C%BA%E5%88%AB?aid=b42c60c3-0a2b-4644-bd23-3f94e121807e&modal_id=7195543439054753064&publish_time=0&sort_type=0&source=search_sug&type=general" %}
+同样价格，整喷和局部补漆怎么选？
+{% endembed %}
+
+> 局部补漆： 要求和工艺高
+>
+> 黑车对局部补漆的要求稍微低一点
+
+{% embed url="https://www.douyin.com/search/%E5%85%A8%E5%96%B7%E5%8D%8A%E5%96%B7%E7%9A%84%E5%8C%BA%E5%88%AB?aid=b42c60c3-0a2b-4644-bd23-3f94e121807e&modal_id=7146904512048024835&publish_time=0&sort_type=0&source=search_sug&type=general" %}
+局部喷漆和整喷
+{% endembed %}
+
+> 整喷和局部喷漆的整个流程是一样的
+>
+> 局部位置补漆， 整面清漆覆盖
+>
+> <mark style="background-color:red;">前杠这种有弧度的地方可以尝试局部喷漆， 机盖和车门不建议局部喷漆</mark>
+>
+>
