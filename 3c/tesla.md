@@ -77,7 +77,7 @@ coverY: 0
 
 ## 院士
 
-[Broken link](broken-reference "mention")
+[#shang-ye-why-jiang](../books/bo-ke.md#shang-ye-why-jiang "mention")
 
 ## 更省电
 
