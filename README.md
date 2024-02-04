@@ -1,8 +1,6 @@
 # README
 
-## ![](.gitbook/assets/image.png)[elonmusk.md](books/elonmusk.md "mention")
-
-
+## ![](.gitbook/assets/image.png)[elonmusk.md](books/shu/elonmusk.md "mention")
 
 ***
 
@@ -25,4 +23,3 @@
 ## 不背单词
 
 ## excel技巧
-
