@@ -32,6 +32,7 @@
 ***
 
 * [健康](jian-kang/README.md)
+  * [食管炎](jian-kang/shi-guan-yan.md)
   * [常用药](jian-kang/chang-yong-yao.md)
   * [医保](jian-kang/yi-bao.md)
 
