@@ -13,15 +13,6 @@
 * [2024](movies/2024.md)
 * [海贼王](zhui-geng/hai-zei-wang.md)
 
-## Books
-
-* [杂文](books/za-wen/README.md)
-  * [我们怎样做父亲](books/za-wen/wo-men-zen-yang-zuo-fu-qin.md)
-* [经济学人](books/jing-ji-xue-ren.md)
-* [播客](books/bo-ke.md)
-* [ElonMusk](books/elonmusk.md)
-* [霍乱时期的爱情](books/huo-luan-shi-qi-de-ai-qing.md)
-
 ## 🏀 球类
 
 * [装备](qiu-lei/zhuang-bei.md)
