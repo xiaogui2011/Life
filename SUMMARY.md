@@ -36,13 +36,15 @@
   * [常用药](jian-kang/chang-yong-yao.md)
   * [医保](jian-kang/yi-bao.md)
 
-## 技能
+## 家中
 
-* [做饭](ji-neng/zuo-fan/README.md)
-  * [辣](ji-neng/zuo-fan/la/README.md)
-    * [辣度1](ji-neng/zuo-fan/la/la-du-1.md)
-  * [酸甜口](ji-neng/zuo-fan/suan-tian-kou/README.md)
-    * [Page 2](ji-neng/zuo-fan/suan-tian-kou/page-2.md)
+* [物件](jia-zhong/wu-jian/README.md)
+  * [洗碗机](jia-zhong/wu-jian/xi-wan-ji.md)
+* [做饭](jia-zhong/zuo-fan/README.md)
+  * [辣](jia-zhong/zuo-fan/la/README.md)
+    * [辣度1](jia-zhong/zuo-fan/la/la-du-1.md)
+  * [酸甜口](jia-zhong/zuo-fan/suan-tian-kou/README.md)
+    * [Page 2](jia-zhong/zuo-fan/suan-tian-kou/page-2.md)
 
 ***
 
