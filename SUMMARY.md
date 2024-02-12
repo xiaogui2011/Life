@@ -16,6 +16,7 @@
 ## Books
 
 * [杂文](books/za-wen/README.md)
+  * [精神内耗](books/za-wen/jing-shen-nei-hao.md)
   * [我们怎样做父亲](books/za-wen/wo-men-zen-yang-zuo-fu-qin.md)
 * [书](books/shu/README.md)
   * [ElonMusk](books/shu/elonmusk.md)
