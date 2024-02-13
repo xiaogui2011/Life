@@ -42,10 +42,9 @@
 * [物件](jia-zhong/wu-jian/README.md)
   * [洗碗机](jia-zhong/wu-jian/xi-wan-ji.md)
 * [做饭](jia-zhong/zuo-fan/README.md)
-  * [辣](jia-zhong/zuo-fan/la/README.md)
-    * [辣度1](jia-zhong/zuo-fan/la/la-du-1.md)
-  * [酸甜口](jia-zhong/zuo-fan/suan-tian-kou/README.md)
-    * [Page 2](jia-zhong/zuo-fan/suan-tian-kou/page-2.md)
+  * [西蓝花炒虾仁](jia-zhong/zuo-fan/xi-lan-hua-chao-xia-ren.md)
+  * [胡萝卜丝](jia-zhong/zuo-fan/hu-luo-bu-si.md)
+  * [葱爆肥牛](jia-zhong/zuo-fan/cong-bao-fei-niu.md)
 
 ***
 
