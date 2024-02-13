@@ -42,6 +42,8 @@
 * [物件](jia-zhong/wu-jian/README.md)
   * [洗碗机](jia-zhong/wu-jian/xi-wan-ji.md)
 * [做饭](jia-zhong/zuo-fan/README.md)
+  * [凉拌黄瓜](jia-zhong/zuo-fan/liang-ban-huang-gua.md)
+  * [鱼香茄子](jia-zhong/zuo-fan/yu-xiang-qie-zi.md)
   * [蒜蓉西蓝花](jia-zhong/zuo-fan/suan-rong-xi-lan-hua.md)
   * [西蓝花炒虾仁](jia-zhong/zuo-fan/xi-lan-hua-chao-xia-ren.md)
   * [胡萝卜丝](jia-zhong/zuo-fan/hu-luo-bu-si.md)
