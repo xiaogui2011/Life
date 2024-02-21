@@ -36,6 +36,7 @@
   * [食管炎](jian-kang/shi-guan-yan.md)
   * [常用药](jian-kang/chang-yong-yao.md)
   * [医保](jian-kang/yi-bao.md)
+  * [空气净化器](jian-kang/kong-qi-jing-hua-qi.md)
 
 ## 家中
 
