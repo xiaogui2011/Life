@@ -7,6 +7,7 @@
 * [直播源](3c/zhi-bo-yuan.md)
 * [Tesla](3c/tesla.md)
 * [Apple](3c/apple.md)
+* [密码锁](3c/mi-ma-suo.md)
 
 ## 追更
 
