@@ -80,3 +80,10 @@
 {% embed url="https://www.youtube.com/watch?v=rB6TA5g7Pg0" %}
 
 {% embed url="https://www.bilibili.com/video/BV11h4y1e7vK/?vd_source=31e016075d5dc418e05dd62618989320" %}
+
+> 空气净化器吸附的是空气中的微粒(包括[灰尘](https://zh.wikipedia.org/wiki/%E7%81%B0%E5%A1%B5)、[花粉](https://zh.wikipedia.org/wiki/%E8%8A%B1%E7%B2%89)、[细菌](https://zh.wikipedia.org/wiki/%E7%BB%86%E8%8F%8C)、[霉菌](https://zh.wikipedia.org/wiki/%E9%9C%89%E8%8F%8C)等), <mark style="background-color:red;">再大一点的就会落到地上</mark>, 归扫把拖把管辖
+
+
+
+
+
