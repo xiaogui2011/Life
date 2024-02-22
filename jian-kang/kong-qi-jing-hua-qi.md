@@ -75,6 +75,10 @@
 >
 > <mark style="color:red;">手机上可以将多个设备联动起来, 比如app一件全部开启, 或者设置自动化, 每天几点开启, 开启多长时间</mark>
 
+
+
+### 爱否科技
+
 {% embed url="https://www.youtube.com/watch?v=JkBsxRgFz84" %}
 
 鼻腔可以阻截大于50微米以上的颗粒
