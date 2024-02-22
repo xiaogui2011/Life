@@ -77,6 +77,34 @@
 
 {% embed url="https://www.youtube.com/watch?v=JkBsxRgFz84" %}
 
+鼻腔可以阻截大于50微米以上的颗粒
+
+小于50微米以上的颗粒可以抵达鼻腔以及咽喉
+
+小于10微米， 直接抵达气管和支气管
+
+小于5微米， 直接进入我们的肺泡以及毛细血管
+
+[CADR定义](https://zh.wikipedia.org/wiki/CADR%E5%80%BC)：净化器每小时能输出洁净空气的立方数
+
+正常用户房间影响PM2.5的因素
+
+* 抽烟
+* 做饭
+* 门窗外的空气
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="174"><figcaption></figcaption></figure>
+
+
+
+墙面会影响CADR值的效果
+
+可移动的PM2.5检测仪
+
+
+
 {% embed url="https://www.youtube.com/watch?v=rB6TA5g7Pg0" %}
 
 {% embed url="https://www.bilibili.com/video/BV11h4y1e7vK/?vd_source=31e016075d5dc418e05dd62618989320" %}
