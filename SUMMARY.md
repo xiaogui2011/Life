@@ -41,6 +41,8 @@
 
 ## 家中
 
+* [技能](jia-zhong/ji-neng/README.md)
+  * [绿萝](jia-zhong/ji-neng/lv-luo.md)
 * [物件](jia-zhong/wu-jian/README.md)
   * [冰箱](jia-zhong/wu-jian/bing-xiang.md)
   * [电视](jia-zhong/wu-jian/dian-shi.md)
