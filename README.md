@@ -1,6 +1,6 @@
 # README
 
-## ![](.gitbook/assets/image.png)[elonmusk.md](books/shu/elonmusk.md "mention")
+## ![](<.gitbook/assets/image (2).png>)[elonmusk.md](books/shu/elonmusk.md "mention")
 
 ***
 
