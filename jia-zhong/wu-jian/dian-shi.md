@@ -26,7 +26,9 @@
 
 <mark style="color:red;">下次选购电视， 最好直接带着apple tv 和hdmi数据线现场测试为好</mark>
 
+{% embed url="https://www.zhihu.com/tardis/zm/art/441568188?source_id=1003" %}
 
+### 开机广告
 
 ### 自动升级
 
