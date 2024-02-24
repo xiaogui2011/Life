@@ -43,6 +43,7 @@
 
 * [物件](jia-zhong/wu-jian/README.md)
   * [冰箱](jia-zhong/wu-jian/bing-xiang.md)
+  * [电视](jia-zhong/wu-jian/dian-shi.md)
   * [洗碗机](jia-zhong/wu-jian/xi-wan-ji.md)
 * [做饭](jia-zhong/zuo-fan/README.md)
   * [老兰州糟肉](jia-zhong/zuo-fan/lao-lan-zhou-zao-rou.md)
