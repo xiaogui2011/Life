@@ -26,7 +26,7 @@
 
 <mark style="color:red;">下次选购电视， 最好直接带着apple tv 和hdmi数据线现场测试为好</mark>
 
-{% embed url="https://www.zhihu.com/tardis/zm/art/441568188?source_id=1003" %}
+[#cec-xie-yi](dian-shi.md#cec-xie-yi "mention")
 
 ### 开机广告
 
@@ -45,3 +45,9 @@
 {% embed url="https://www.bilibili.com/video/BV1LM4y1T7a4/?spm_id_from=333.999.0.0&vd_source=31e016075d5dc418e05dd62618989320" %}
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+## CEC协议
+
+{% embed url="https://mp.weixin.qq.com/s?__biz=MzkzMzUxODI3MA==&mid=2247548073&idx=1&sn=08fe2242c9ffca0f50172a653510c1c9&source=41#wechat_redirect" %}
+
+{% embed url="https://www.zhihu.com/tardis/zm/art/441568188?source_id=1003" %}
