@@ -7,3 +7,9 @@
 ## 终点订单
 
 嘀嗒出行提供了终点订单， 这样就能尝试安排衔接<mark style="color:red;">返程路段不空跑</mark>
+
+<mark style="color:red;">发布的订单详情中， 右下角三个点， 终点订单</mark>
+
+
+
+<table><thead><tr><th width="235">优势</th><th>嘀嗒出行优势</th><th>哈喽</th><th>滴滴</th></tr></thead><tbody><tr><td>提前查看<mark style="color:red;">终点订单</mark></td><td>⭐️⭐️⭐️</td><td></td><td></td></tr><tr><td>顺路1+1订单</td><td>⭐️⭐️⭐️</td><td>❌</td><td></td></tr><tr><td>不发布行程查看订单</td><td>⭐️⭐️⭐️</td><td>⭐️⭐️⭐️</td><td>⭐️⭐️⭐️</td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
