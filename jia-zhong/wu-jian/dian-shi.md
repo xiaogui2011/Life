@@ -30,8 +30,18 @@
 
 ### 开机广告
 
+[小米电视的广告从技术上是可以屏蔽的](https://weibo.com/5035763146/Lvg0swjn9?type=repost)
+
 ### 自动升级
 
 ### 接口插拔位置反人类
 
 ### 白天客厅反光
+
+
+
+## 高端用法
+
+{% embed url="https://www.bilibili.com/video/BV1LM4y1T7a4/?spm_id_from=333.999.0.0&vd_source=31e016075d5dc418e05dd62618989320" %}
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
