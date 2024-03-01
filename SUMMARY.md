@@ -35,6 +35,7 @@
 ***
 
 * [健康](jian-kang/README.md)
+  * [买药](jian-kang/mai-yao.md)
   * [挂号](jian-kang/gua-hao.md)
   * [甲沟炎](jian-kang/jia-gou-yan.md)
   * [食管炎](jian-kang/shi-guan-yan.md)
